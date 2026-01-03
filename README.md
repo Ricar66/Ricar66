@@ -45,12 +45,12 @@ Plataforma educacional de programação, gamificada e interativa.
 
 | Skill | Nível |
 |-------|-------|
-| JavaScript | ![90%](https://progress-bar.dev/90/?color=F7DF1E&title=JavaScript) |
-| Python | ![80%](https://progress-bar.dev/80/?color=3776AB&title=Python) |
-| C# | ![75%](https://progress-bar.dev/75/?color=9B4993&title=C%23) |
-| React | ![80%](https://progress-bar.dev/80/?color=61DAFB&title=React) |
-| MySQL | ![70%](https://progress-bar.dev/70/?color=4479A1&title=MySQL) |
-| HTML & CSS | ![85%](https://progress-bar.dev/85/?color=E34F26&title=HTML%26CSS) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-F7DF1E) |
+| ![Python](https://img.shields.io/badge/Python-80%25-3776AB) |
+| ![C#](https://img.shields.io/badge/C%23-75%25-9B4993) |
+| [React](https://img.shields.io/badge/React-80%25-61DAFB) |
+| [MySQL](https://img.shields.io/badge/MySQL-70%25-4479A1) |
+| [HTML & CSS](https://img.shields.io/badge/HTML%26CSS-85%25-E34F26) |
 
 ---
 
