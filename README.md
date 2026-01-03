@@ -5,7 +5,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando apr
 
 ## 💻 Sobre Mim
 - Explorando **Front-end, Back-end e Banco de Dados**
-- Estudando **Python, JavaScript, C#, Django**
+- Estudando **Python, JavaScript, C#, React**
 - Interessado em **Desenvolvimento Web, APIs e Gamificação**
 - Atualmente focado em **Projetos Full-Stack e Aprimoramento de Habilidades**
 
@@ -22,7 +22,8 @@ Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando apr
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 <br>
@@ -30,9 +31,8 @@ Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando apr
 ## 🚀 Meus Projetos
 Aqui estão alguns dos projetos que refletem meu aprendizado e habilidades:
 
-- [**Portal de Gamificação**](https://github.com/Ricar66/portal-gamificacao) – Sistema de desafios para corretores com ranking e pontuação.
-- [**Aplicativo Educacional de Sustentabilidade**](https://github.com/Ricar66/app-sustentabilidade) – App para escolas ensinar sustentabilidade de forma interativa.
-- [**Meu Primeiro Site**](https://github.com/Ricar66/meu_primeiro_site) – Primeiros passos no desenvolvimento web.
+- [**CoinCraft**](https://github.com/Ricar66/CoinCraft) – Projeto de criptomoedas e simulação de trading, com backend e frontend integrados.
+- [**CodeCraft Genz**](https://github.com/Ricar66/codecraftgenz) – Plataforma educacional de programação, gamificada e interativa.
 
 ## 🤝 Vamos Conectar
 - LinkedIn: [https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)
@@ -41,3 +41,4 @@ Aqui estão alguns dos projetos que refletem meu aprendizado e habilidades:
 ---
 
 Sinta-se à vontade para explorar, dar ⭐ nos projetos e contribuir! Vamos construir juntos. 🚀
+
