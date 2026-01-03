@@ -30,12 +30,12 @@ Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando apr
 ## 🚀 Projetos em Destaque
 
 ### CoinCraft
-![CoinCraft Demo](https://media.giphy.com/media/26xBMuGf2H7drM23q/giphy.gif)  
+![CoinCraft Demo]()  
 Projeto de criptomoedas e simulação de trading, com backend e frontend integrados.  
 [🔗 Ver no GitHub](https://github.com/Ricar66/CoinCraft)
 
 ### CodeCraft Genz
-![CodeCraft Demo](https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif)  
+![CodeCraft Demo]()  
 Plataforma educacional de programação, gamificada e interativa.  
 [🔗 Ver no GitHub](https://github.com/Ricar66/codecraftgenz)
 
