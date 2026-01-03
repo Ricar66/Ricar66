@@ -35,8 +35,8 @@ Aqui estão alguns dos projetos que refletem meu aprendizado e habilidades:
 - [**CodeCraft Genz**](https://github.com/Ricar66/codecraftgenz) – Plataforma educacional de programação, gamificada e interativa.
 
 ## 🤝 Vamos Conectar
-- LinkedIn: [https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)
-- E-mail: seuemail@exemplo.com
+- LinkedIn: [https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/www.linkedin.com/in/ricardo-de-marco-moretti-6445882b0)
+- E-mail: ricardocoradini97@gmail.com
 
 ---
 
