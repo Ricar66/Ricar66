@@ -48,9 +48,9 @@ Plataforma educacional de programação, gamificada e interativa.
 | ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-F7DF1E) |
 | ![Python](https://img.shields.io/badge/Python-80%25-3776AB) |
 | ![C#](https://img.shields.io/badge/C%23-75%25-9B4993) |
-| [React](https://img.shields.io/badge/React-80%25-61DAFB) |
-| [MySQL](https://img.shields.io/badge/MySQL-70%25-4479A1) |
-| [HTML & CSS](https://img.shields.io/badge/HTML%26CSS-85%25-E34F26) |
+| ![React](https://img.shields.io/badge/React-80%25-61DAFB) |
+| ![MySQL](https://img.shields.io/badge/MySQL-70%25-4479A1) |
+| ![HTML & CSS](https://img.shields.io/badge/HTML%26CSS-85%25-E34F26) |
 
 ---
 
